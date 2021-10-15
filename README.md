@@ -1,2 +1,1 @@
-# HTML-CSS
-This repository was created for the managing and tracking of all my projects relating to HTML and CSS
+# HTML-CSS. This repository was created for the managing and tracking of all my projects relating to HTML and CSS I have now completed a few projects relating to HTML/CSS: Building a one page website with responsive nav links and a variety of animation/styling throughout. I have created multiple websites with features such as menu rollovers, hover effects, bootstrap templates, and embedded background videos. 
